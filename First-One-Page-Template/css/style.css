@@ -1,0 +1,130 @@
+/****************************start*****************************/
+
+
+
+
+*{
+	margin : 0;
+	padding: 0;
+}
+a, a:hover {
+	text-decoration: none;
+}
+img {
+	width: 100%;
+}
+body {
+  background-image: url("../background.jpg");
+  background-size: cover;
+  width: 100%;
+}
+.fix{
+	overflow: hidden;
+}
+.floatleft {
+	float: left;
+}
+.floatright {
+	float: right;
+}
+.wrapper {
+	padding: 80px;
+	width: 600px;
+	margin: 50px;
+}
+/*--------start----logo-area----------*/
+.logo-area {
+  margin: 12px;
+}
+.logo {
+
+}
+.logo h1 a {
+	color: #49f000;;
+	font-size: 48px;
+	font-style: italic;
+}
+/*------start----logo-area-------------*/
+
+
+
+
+
+
+
+
+/*------start----text-content------*/
+.text-content {
+  	margin-bottom: 60px;
+}
+.text-content p {
+	color: #c4c1f5;
+	font-family: cursive;
+	font-size: 37px;
+}
+.text-content a {
+	color: #FFFFFF;
+}
+/*------end----text-content---------*/
+
+
+
+
+
+
+
+
+/*--------start----MainMenu--------*/
+.mainmenu {
+
+}
+nav {
+
+}
+#navigation-area {
+
+}
+#navigation-area ul {
+
+}
+#navigation-area ul li {
+	display: inline-block;
+	list-style: none;
+}
+#navigation-area ul li a {
+	color:#ffffff;
+	font-size: 22px;
+	margin: 12px;
+	transition-duration: 0.5s;
+	display: block;
+}
+#navigation-area ul li a:hover {
+	color: #010101;
+	font-size: 22px;
+	margin: 12px;
+	transition-duration: 0.5s;
+	display: block;
+}
+/*---------end-----MainMenu-----------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------start----copyright-area------*/
+.copyright-area {
+	color: #d7fffb;
+	margin-top: 20px;
+	cursor: pointer;
+}
+/*------end----copyright-area------*/
+
+/**************************end******************************/
